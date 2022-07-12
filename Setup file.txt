@@ -1,0 +1,11 @@
+# h2o requires additional dependency package Rcurl. If there is  an error : 'Configuration failed
+# for package Rcurl' while installing the dependecy use - sudo apt -y install libcurl4-openssl-dev and try again
+
+# Error in starting an instance of h2o - Fix : Install JRE - h2o required JRE on the system
+
+# user_function.R script contains all the user defined functions used in all the models
+# Coursework_main.R is the main file.
+# AB_NYC_2019.csv is the data set
+
+#All the three files needs to be in the same folder
+# Run  Coursework_main.R
